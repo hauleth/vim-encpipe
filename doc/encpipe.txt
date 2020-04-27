@@ -1,0 +1,15 @@
+*encpipe.txt* Encrypt file using encpipe
+
+Simple and safe encryption using password for Vim.
+
+Usage:
+
+Just open file with extension *.enc and magic will happen.
+
+Commands:
+
+								*:EncpipePass*
+:EncpipePass
+	Ask for new password that will be used for the encryption.
+
+vim:tw=78:ts=8:noet:ft=help:norl:
